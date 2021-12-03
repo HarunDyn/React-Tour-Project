@@ -1,0 +1,23 @@
+.navbar{
+    height: 10vh;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.navbar p {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-right: 2rem;
+    padding: 0.3rem 0.6rem;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.navbar p:hover{
+    background-color: #fff;
+    color: #000;
+}
